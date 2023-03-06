@@ -1,0 +1,82 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\1200px-Gio223042606.jpg" />
+    <None Remove="images\1665_Girl_225744491.jpg" />
+    <None Remove="images\800px-Joea223325644.jpg" />
+    <None Remove="images\avatar.jpg" />
+    <None Remove="images\avatar2.jpg" />
+    <None Remove="images\avatar3.png" />
+    <None Remove="images\avatar4.jpg" />
+    <None Remove="images\Caravaggio220618561.jpg" />
+    <None Remove="images\daenerys-t220059585.png" />
+    <None Remove="images\defaultavatar.jpg" />
+    <None Remove="images\FA10105_22223324095.jpg" />
+    <None Remove="images\François_B225935644.jpg" />
+    <None Remove="images\gettyimage223552577.jpg" />
+    <None Remove="images\GiovanniB223300622.jpg" />
+    <None Remove="images\Jacques-Lo220312292.jpg" />
+    <None Remove="images\L2986_-_Er220619630.jpg" />
+    <None Remove="images\L2986_-_Er222227904.jpg" />
+    <None Remove="images\L2986_-_Er222241216.jpg" />
+    <None Remove="images\L2986_-_Er222428096.jpg" />
+    <None Remove="images\L2986_-_Er224053536.jpg" />
+    <None Remove="images\L2986_-_Er224118618.jpg" />
+    <None Remove="images\P1280937-b.jpg" />
+    <None Remove="images\Pieter_Pau225951767.jpg" />
+    <None Remove="images\Scuola_Gra225313192.jpg" />
+    <None Remove="images\Sfinge-II-222134174.jpg" />
+    <None Remove="images\van-gogh-s225813852.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="images\1200px-Gio223042606.jpg" />
+    <Content Include="images\1665_Girl_225744491.jpg" />
+    <Content Include="images\800px-Joea223325644.jpg" />
+    <Content Include="images\avatar.jpg" />
+    <Content Include="images\avatar2.jpg" />
+    <Content Include="images\avatar3.png" />
+    <Content Include="images\avatar4.jpg" />
+    <Content Include="images\Caravaggio220618561.jpg" />
+    <Content Include="images\daenerys-t220059585.png" />
+    <Content Include="images\defaultavatar.jpg" />
+    <Content Include="images\FA10105_22223324095.jpg" />
+    <Content Include="images\François_B225935644.jpg" />
+    <Content Include="images\gettyimage223552577.jpg" />
+    <Content Include="images\GiovanniB223300622.jpg" />
+    <Content Include="images\Jacques-Lo220312292.jpg" />
+    <Content Include="images\L2986_-_Er220619630.jpg" />
+    <Content Include="images\L2986_-_Er222227904.jpg" />
+    <Content Include="images\L2986_-_Er222241216.jpg" />
+    <Content Include="images\L2986_-_Er222428096.jpg" />
+    <Content Include="images\L2986_-_Er224053536.jpg" />
+    <Content Include="images\L2986_-_Er224118618.jpg" />
+    <Content Include="images\P1280937-b.jpg" />
+    <Content Include="images\Pieter_Pau225951767.jpg" />
+    <Content Include="images\Scuola_Gra225313192.jpg" />
+    <Content Include="images\Sfinge-II-222134174.jpg" />
+    <Content Include="images\van-gogh-s225813852.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IronPython" Version="3.4.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.9" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.8" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="7.0.5" />
+  </ItemGroup>
+
+</Project>

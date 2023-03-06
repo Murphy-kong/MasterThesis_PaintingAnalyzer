@@ -1,0 +1,14 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.13.0+cpu
+torchvision==0.14.0+cpu
+Flask
+gunicorn == 19.9.0
+numpy
+pandas
+Pillow
+scikit-learn
+torchmetrics
+azure-storage-file-share 
+azure-storage-common
+requests
+Flask-Cors

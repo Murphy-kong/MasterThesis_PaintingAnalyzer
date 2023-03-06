@@ -1,0 +1,2979 @@
+{
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "description": "VIA project exported to COCO format using VGG Image Annotator (http://www.robots.ox.ac.uk/~vgg/software/via/)",
+    "contributor": "",
+    "url": "http://www.robots.ox.ac.uk/~vgg/software/via/",
+    "date_created": "Sun Jan 01 2023 17:46:50 GMT+0100 (Mitteleuropäische Normalzeit)"
+  },
+  "images": [
+    {
+      "id": 501,
+      "width": 500,
+      "height": 375,
+      "file_name": "501.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/501.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/501.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 502,
+      "width": 2084,
+      "height": 1390,
+      "file_name": "502.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/502.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/502.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 503,
+      "width": 300,
+      "height": 168,
+      "file_name": "503.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/503.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/503.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 504,
+      "width": 1600,
+      "height": 1184,
+      "file_name": "504.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/504.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/504.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 505,
+      "width": 236,
+      "height": 213,
+      "file_name": "505.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/505.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/505.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 506,
+      "width": 3360,
+      "height": 1360,
+      "file_name": "506.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/506.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/506.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 507,
+      "width": 990,
+      "height": 690,
+      "file_name": "507.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/507.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/507.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 508,
+      "width": 700,
+      "height": 525,
+      "file_name": "508.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/508.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/508.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 509,
+      "width": 274,
+      "height": 184,
+      "file_name": "509.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/509.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/509.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 510,
+      "width": 1600,
+      "height": 688,
+      "file_name": "510.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/510.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/510.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 511,
+      "width": 1500,
+      "height": 931,
+      "file_name": "511.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/511.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/511.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 512,
+      "width": 260,
+      "height": 194,
+      "file_name": "512.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/512.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/512.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 513,
+      "width": 588,
+      "height": 396,
+      "file_name": "513.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/513.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/513.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 514,
+      "width": 4000,
+      "height": 2664,
+      "file_name": "514.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/514.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/514.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 515,
+      "width": 1920,
+      "height": 1080,
+      "file_name": "515.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/515.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/515.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 516,
+      "width": 533,
+      "height": 960,
+      "file_name": "516.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/516.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/516.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 517,
+      "width": 800,
+      "height": 535,
+      "file_name": "517.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/517.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/517.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 518,
+      "width": 720,
+      "height": 480,
+      "file_name": "518.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/518.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/518.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 519,
+      "width": 700,
+      "height": 525,
+      "file_name": "519.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/519.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/519.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 520,
+      "width": 1200,
+      "height": 900,
+      "file_name": "520.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/520.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/520.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 521,
+      "width": 961,
+      "height": 1200,
+      "file_name": "521.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/521.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/521.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 522,
+      "width": 1280,
+      "height": 720,
+      "file_name": "522.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/522.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/522.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 523,
+      "width": 1279,
+      "height": 630,
+      "file_name": "523.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/523.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/523.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 524,
+      "width": 501,
+      "height": 501,
+      "file_name": "524.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/524.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/524.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 525,
+      "width": 520,
+      "height": 347,
+      "file_name": "525.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/525.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/525.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 526,
+      "width": 640,
+      "height": 478,
+      "file_name": "526.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/526.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/526.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 527,
+      "width": 300,
+      "height": 168,
+      "file_name": "527.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/527.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/527.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 528,
+      "width": 801,
+      "height": 469,
+      "file_name": "528.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/528.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/528.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 529,
+      "width": 259,
+      "height": 194,
+      "file_name": "529.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/529.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/529.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 530,
+      "width": 225,
+      "height": 225,
+      "file_name": "530.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/530.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/530.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 531,
+      "width": 749,
+      "height": 1000,
+      "file_name": "531.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/531.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/531.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 532,
+      "width": 275,
+      "height": 183,
+      "file_name": "532.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/532.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/532.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 533,
+      "width": 267,
+      "height": 188,
+      "file_name": "533.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/533.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/533.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 534,
+      "width": 281,
+      "height": 179,
+      "file_name": "534.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/534.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/534.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 535,
+      "width": 630,
+      "height": 420,
+      "file_name": "535.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/535.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/535.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 536,
+      "width": 700,
+      "height": 465,
+      "file_name": "536.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/536.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/536.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 537,
+      "width": 618,
+      "height": 411,
+      "file_name": "537.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/537.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/537.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 538,
+      "width": 816,
+      "height": 428,
+      "file_name": "538.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/538.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/538.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 539,
+      "width": 1300,
+      "height": 970,
+      "file_name": "539.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/539.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/539.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 540,
+      "width": 500,
+      "height": 281,
+      "file_name": "540.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/540.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/540.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 541,
+      "width": 600,
+      "height": 400,
+      "file_name": "541.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/541.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/541.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 542,
+      "width": 1280,
+      "height": 720,
+      "file_name": "542.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/542.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/542.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 543,
+      "width": 710,
+      "height": 344,
+      "file_name": "543.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/543.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/543.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 544,
+      "width": 259,
+      "height": 194,
+      "file_name": "544.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/544.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/544.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 545,
+      "width": 259,
+      "height": 194,
+      "file_name": "545.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/545.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/545.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 546,
+      "width": 259,
+      "height": 194,
+      "file_name": "546.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/546.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/546.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 547,
+      "width": 600,
+      "height": 400,
+      "file_name": "547.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/547.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/547.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 548,
+      "width": 700,
+      "height": 394,
+      "file_name": "548.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/548.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/548.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 549,
+      "width": 520,
+      "height": 355,
+      "file_name": "549.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/549.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/549.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 550,
+      "width": 269,
+      "height": 187,
+      "file_name": "550.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/550.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/550.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 551,
+      "width": 600,
+      "height": 450,
+      "file_name": "551.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/551.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/551.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 552,
+      "width": 275,
+      "height": 183,
+      "file_name": "552.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/552.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/552.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 553,
+      "width": 740,
+      "height": 494,
+      "file_name": "553.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/553.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/553.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 554,
+      "width": 520,
+      "height": 350,
+      "file_name": "554.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/554.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/554.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 555,
+      "width": 259,
+      "height": 194,
+      "file_name": "555.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/555.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/555.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 556,
+      "width": 1280,
+      "height": 961,
+      "file_name": "556.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/556.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/556.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 557,
+      "width": 700,
+      "height": 394,
+      "file_name": "557.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/557.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/557.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 558,
+      "width": 300,
+      "height": 168,
+      "file_name": "558.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/558.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/558.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 559,
+      "width": 698,
+      "height": 462,
+      "file_name": "559.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/559.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/559.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 560,
+      "width": 736,
+      "height": 981,
+      "file_name": "560.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/560.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/560.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 561,
+      "width": 640,
+      "height": 480,
+      "file_name": "561.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/561.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/561.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 562,
+      "width": 1280,
+      "height": 960,
+      "file_name": "562.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/562.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/562.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 563,
+      "width": 1200,
+      "height": 946,
+      "file_name": "563.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/563.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/563.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 564,
+      "width": 290,
+      "height": 174,
+      "file_name": "564.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/564.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/564.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 565,
+      "width": 330,
+      "height": 327,
+      "file_name": "565.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/565.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/565.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 566,
+      "width": 990,
+      "height": 660,
+      "file_name": "566.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/566.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/566.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 567,
+      "width": 275,
+      "height": 183,
+      "file_name": "567.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/567.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/567.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 568,
+      "width": 792,
+      "height": 990,
+      "file_name": "568.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/568.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/568.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 569,
+      "width": 400,
+      "height": 300,
+      "file_name": "569.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/569.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/569.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 570,
+      "width": 284,
+      "height": 177,
+      "file_name": "570.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/570.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/570.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 571,
+      "width": 1600,
+      "height": 1067,
+      "file_name": "571.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/571.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/571.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 572,
+      "width": 638,
+      "height": 479,
+      "file_name": "572.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/572.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/572.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 573,
+      "width": 550,
+      "height": 366,
+      "file_name": "573.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/573.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/573.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 574,
+      "width": 285,
+      "height": 177,
+      "file_name": "574.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/574.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/574.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 575,
+      "width": 565,
+      "height": 382,
+      "file_name": "575.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/575.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/575.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 576,
+      "width": 1024,
+      "height": 681,
+      "file_name": "576.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/576.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/576.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 577,
+      "width": 500,
+      "height": 375,
+      "file_name": "577.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/577.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/577.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 578,
+      "width": 1024,
+      "height": 683,
+      "file_name": "578.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/578.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/578.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 579,
+      "width": 700,
+      "height": 448,
+      "file_name": "579.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/579.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/579.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 580,
+      "width": 525,
+      "height": 700,
+      "file_name": "580.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/580.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/580.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 581,
+      "width": 1000,
+      "height": 715,
+      "file_name": "581.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/581.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/581.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 582,
+      "width": 600,
+      "height": 245,
+      "file_name": "582.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/582.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/582.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 583,
+      "width": 259,
+      "height": 194,
+      "file_name": "583.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/583.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/583.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 584,
+      "width": 272,
+      "height": 185,
+      "file_name": "584.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/584.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/584.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 585,
+      "width": 700,
+      "height": 394,
+      "file_name": "585.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/585.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/585.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 586,
+      "width": 480,
+      "height": 320,
+      "file_name": "586.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/586.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/586.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 587,
+      "width": 400,
+      "height": 266,
+      "file_name": "587.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/587.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/587.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 588,
+      "width": 492,
+      "height": 573,
+      "file_name": "588.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/588.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/588.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 589,
+      "width": 750,
+      "height": 499,
+      "file_name": "589.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/589.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/589.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 590,
+      "width": 700,
+      "height": 525,
+      "file_name": "590.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/590.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/590.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 591,
+      "width": 183,
+      "height": 275,
+      "file_name": "591.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/591.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/591.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 592,
+      "width": 480,
+      "height": 360,
+      "file_name": "592.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/592.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/592.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 593,
+      "width": 275,
+      "height": 183,
+      "file_name": "593.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/593.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/593.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 594,
+      "width": 1058,
+      "height": 606,
+      "file_name": "594.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/594.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/594.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 595,
+      "width": 1115,
+      "height": 716,
+      "file_name": "595.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/595.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/595.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 596,
+      "width": 1059,
+      "height": 941,
+      "file_name": "596.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/596.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/596.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 597,
+      "width": 973,
+      "height": 788,
+      "file_name": "597.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/597.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/597.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 598,
+      "width": 1072,
+      "height": 846,
+      "file_name": "598.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/598.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/598.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 599,
+      "width": 1305,
+      "height": 852,
+      "file_name": "599.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/599.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/599.JPEG",
+      "date_captured": ""
+    },
+    {
+      "id": 600,
+      "width": 1277,
+      "height": 896,
+      "file_name": "600.JPEG",
+      "license": 0,
+      "flickr_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/600.JPEG",
+      "coco_url": "./data_for_art_painting_detection_and_identification_paper/images_for_yolov2_art_painting_detection/Test_Images_for_Art_Painting_Detection/Test_Images_for_Art_Painting_Detection/600.JPEG",
+      "date_captured": ""
+    }
+  ],
+  "annotations": [
+    {
+      "segmentation": [
+        [
+          32, 110, 30, 0, 124, 0, 181, 26, 178, 263, 174, 262, 166, 258, 153,
+          260, 142, 267, 132, 284, 110, 290, 92, 310, 79, 316, 79, 310, 79, 285,
+          84, 282, 82, 272, 70, 242, 74, 234, 92, 238, 97, 230, 97, 214, 99,
+          203, 97, 182, 93, 180, 96, 171, 94, 164, 88, 156, 76, 153, 76, 165,
+          80, 182, 81, 202, 73, 194, 72, 186, 62, 178, 60, 174, 55, 168, 55,
+          164, 63, 167, 68, 153, 72, 146, 69, 137, 68, 130, 69, 123, 56, 106,
+          38, 106
+        ]
+      ],
+      "area": 47716,
+      "bbox": [30, 0, 151, 316],
+      "iscrowd": 0,
+      "id": 1,
+      "image_id": 501,
+      "category_id": null
+    },
+    {
+      "segmentation": [[491, 1000, 518, 230, 827, 381, 821, 899]],
+      "area": 258720,
+      "bbox": [491, 230, 336, 770],
+      "iscrowd": 0,
+      "id": 2,
+      "image_id": 502,
+      "category_id": null
+    },
+    {
+      "segmentation": [[973, 836, 992, 463, 1074, 501, 1060, 810]],
+      "area": 37673,
+      "bbox": [973, 463, 101, 373],
+      "iscrowd": 0,
+      "id": 3,
+      "image_id": 502,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1713, 747, 1721, 544, 1948, 539, 1940, 761]],
+      "area": 52170,
+      "bbox": [1713, 539, 235, 222],
+      "iscrowd": 0,
+      "id": 4,
+      "image_id": 502,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1130, 533, 1168, 558, 1168, 761, 1125, 780]],
+      "area": 10621,
+      "bbox": [1125, 533, 43, 247],
+      "iscrowd": 0,
+      "id": 5,
+      "image_id": 502,
+      "category_id": null
+    },
+    {
+      "segmentation": [[58, 122, 53, 28, 130, 30, 130, 122]],
+      "area": 7238,
+      "bbox": [53, 28, 77, 94],
+      "iscrowd": 0,
+      "id": 6,
+      "image_id": 503,
+      "category_id": null
+    },
+    {
+      "segmentation": [[161, 122, 162, 27, 241, 28, 234, 120, 234, 123]],
+      "area": 7680,
+      "bbox": [161, 27, 80, 96],
+      "iscrowd": 0,
+      "id": 7,
+      "image_id": 503,
+      "category_id": null
+    },
+    {
+      "segmentation": [[463, 470, 492, 96, 977, 107, 975, 478]],
+      "area": 196348,
+      "bbox": [463, 96, 514, 382],
+      "iscrowd": 0,
+      "id": 8,
+      "image_id": 504,
+      "category_id": null
+    },
+    {
+      "segmentation": [[193, 612, 544, 600, 565, 1057, 238, 1078]],
+      "area": 177816,
+      "bbox": [193, 600, 372, 478],
+      "iscrowd": 0,
+      "id": 9,
+      "image_id": 504,
+      "category_id": null
+    },
+    {
+      "segmentation": [[811, 996, 816, 745, 1147, 750, 1143, 1005]],
+      "area": 87360,
+      "bbox": [811, 745, 336, 260],
+      "iscrowd": 0,
+      "id": 10,
+      "image_id": 504,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1070, 472, 1065, 87, 1356, 96, 1356, 467]],
+      "area": 112035,
+      "bbox": [1065, 87, 291, 385],
+      "iscrowd": 0,
+      "id": 11,
+      "image_id": 504,
+      "category_id": null
+    },
+    {
+      "segmentation": [[262, 435, 278, 172, -1, 172, 4, 427]],
+      "area": 73377,
+      "bbox": [-1, 172, 279, 263],
+      "iscrowd": 0,
+      "id": 12,
+      "image_id": 504,
+      "category_id": null
+    },
+    {
+      "segmentation": [[12, 141, 8, 9, 136, 16, 132, 136]],
+      "area": 16896,
+      "bbox": [8, 9, 128, 132],
+      "iscrowd": 0,
+      "id": 13,
+      "image_id": 505,
+      "category_id": null
+    },
+    {
+      "segmentation": [[154, 2, 160, 590, 588, 590, 607, 45, 420, 2]],
+      "area": 266364,
+      "bbox": [154, 2, 453, 588],
+      "iscrowd": 0,
+      "id": 14,
+      "image_id": 506,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1196, 2, 1178, 832, 1457, 813, 1481, 2]],
+      "area": 251490,
+      "bbox": [1178, 2, 303, 830],
+      "iscrowd": 0,
+      "id": 15,
+      "image_id": 506,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [1829, 2, 1829, 863, 2127, 826, 2033, 348, 2119, 348, 2119, 2]
+      ],
+      "area": 256578,
+      "bbox": [1829, 2, 298, 861],
+      "iscrowd": 0,
+      "id": 16,
+      "image_id": 506,
+      "category_id": null
+    },
+    {
+      "segmentation": [[206, 254, 209, 84, 413, 127, 409, 271]],
+      "area": 38709,
+      "bbox": [206, 84, 207, 187],
+      "iscrowd": 0,
+      "id": 17,
+      "image_id": 507,
+      "category_id": null
+    },
+    {
+      "segmentation": [[263, 171, 256, 41, 356, 51, 359, 171]],
+      "area": 13390,
+      "bbox": [256, 41, 103, 130],
+      "iscrowd": 0,
+      "id": 18,
+      "image_id": 508,
+      "category_id": null
+    },
+    {
+      "segmentation": [[75, 172, 74, 24, 190, 37, 192, 153]],
+      "area": 17464,
+      "bbox": [74, 24, 118, 148],
+      "iscrowd": 0,
+      "id": 19,
+      "image_id": 509,
+      "category_id": null
+    },
+    {
+      "segmentation": [[2, 550, 336, 559, 333, 122, 2, 125]],
+      "area": 145958,
+      "bbox": [2, 122, 334, 437],
+      "iscrowd": 0,
+      "id": 20,
+      "image_id": 510,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1254, 526, 1260, 168, 1573, 165, 1570, 532]],
+      "area": 117073,
+      "bbox": [1254, 165, 319, 367],
+      "iscrowd": 0,
+      "id": 21,
+      "image_id": 510,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          643, 372, 640, 258, 821, 261, 821, 402, 721, 405, 685, 354, 703, 327,
+          703, 303, 694, 285, 676, 279, 661, 294, 655, 333, 655, 357, 643, 360,
+          646, 366
+        ]
+      ],
+      "area": 26607,
+      "bbox": [640, 258, 181, 147],
+      "iscrowd": 0,
+      "id": 22,
+      "image_id": 510,
+      "category_id": null
+    },
+    {
+      "segmentation": [[109, 387, 105, 33, 468, 101, 472, 395]],
+      "area": 132854,
+      "bbox": [105, 33, 367, 362],
+      "iscrowd": 0,
+      "id": 23,
+      "image_id": 511,
+      "category_id": null
+    },
+    {
+      "segmentation": [[139, 898, 127, 549, 485, 510, 493, 792]],
+      "area": 142008,
+      "bbox": [127, 510, 366, 388],
+      "iscrowd": 0,
+      "id": 24,
+      "image_id": 511,
+      "category_id": null
+    },
+    {
+      "segmentation": [[672, 468, 634, 3, 719, 3, 915, 28, 937, 434]],
+      "area": 140895,
+      "bbox": [634, 3, 303, 465],
+      "iscrowd": 0,
+      "id": 25,
+      "image_id": 511,
+      "category_id": null
+    },
+    {
+      "segmentation": [[685, 851, 689, 498, 937, 472, 928, 766]],
+      "area": 95508,
+      "bbox": [685, 472, 252, 379],
+      "iscrowd": 0,
+      "id": 26,
+      "image_id": 511,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1065, 58, 1210, 122, 1201, 374, 1052, 361, 1048, 357]],
+      "area": 51192,
+      "bbox": [1048, 58, 162, 316],
+      "iscrowd": 0,
+      "id": 27,
+      "image_id": 511,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1065, 749, 1205, 698, 1210, 468, 1069, 498]],
+      "area": 40745,
+      "bbox": [1065, 468, 145, 281],
+      "iscrowd": 0,
+      "id": 28,
+      "image_id": 511,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1282, 378, 1291, 92, 1419, 109, 1423, 348]],
+      "area": 40326,
+      "bbox": [1282, 92, 141, 286],
+      "iscrowd": 0,
+      "id": 29,
+      "image_id": 511,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1308, 391, 1410, 408, 1393, 621, 1291, 625]],
+      "area": 27846,
+      "bbox": [1291, 391, 119, 234],
+      "iscrowd": 0,
+      "id": 30,
+      "image_id": 511,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1414, 579, 1423, 425, 1491, 416, 1491, 557]],
+      "area": 12551,
+      "bbox": [1414, 416, 77, 163],
+      "iscrowd": 0,
+      "id": 31,
+      "image_id": 511,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1431, 190, 1436, 58, 1495, 75, 1491, 195]],
+      "area": 8768,
+      "bbox": [1431, 58, 64, 137],
+      "iscrowd": 0,
+      "id": 32,
+      "image_id": 511,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1428, 367, 1434, 239, 1488, 248, 1485, 365]],
+      "area": 7680,
+      "bbox": [1428, 239, 60, 128],
+      "iscrowd": 0,
+      "id": 33,
+      "image_id": 511,
+      "category_id": null
+    },
+    {
+      "segmentation": [[50, 106, 50, 39, 134, 43, 132, 105]],
+      "area": 5628,
+      "bbox": [50, 39, 84, 67],
+      "iscrowd": 0,
+      "id": 34,
+      "image_id": 512,
+      "category_id": null
+    },
+    {
+      "segmentation": [[159, 125, 161, 33, 226, 35, 223, 125]],
+      "area": 6164,
+      "bbox": [159, 33, 67, 92],
+      "iscrowd": 0,
+      "id": 35,
+      "image_id": 512,
+      "category_id": null
+    },
+    {
+      "segmentation": [[75, 229, 91, 88, 139, 111, 126, 225]],
+      "area": 9024,
+      "bbox": [75, 88, 64, 141],
+      "iscrowd": 0,
+      "id": 36,
+      "image_id": 513,
+      "category_id": null
+    },
+    {
+      "segmentation": [[399, 318, 405, 81, 432, 39, 429, 321]],
+      "area": 9306,
+      "bbox": [399, 39, 33, 282],
+      "iscrowd": 0,
+      "id": 37,
+      "image_id": 513,
+      "category_id": null
+    },
+    {
+      "segmentation": [[52, 1141, 409, 1114, 400, 555, 43, 510]],
+      "area": 230946,
+      "bbox": [43, 510, 366, 631],
+      "iscrowd": 0,
+      "id": 38,
+      "image_id": 514,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          1031, 15, 1040, 1324, 2056, 1397, 2056, 1306, 2121, 1205, 2240, 1150,
+          2349, 1159, 2432, 1232, 2496, 1324, 2496, 1406, 2496, 1425, 3018,
+          1452, 3091, 15
+        ]
+      ],
+      "area": 2960220,
+      "bbox": [1031, 15, 2060, 1437],
+      "iscrowd": 0,
+      "id": 39,
+      "image_id": 514,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          1249, 849, 1257, 945, 370, 1027, 340, 51, 1220, 99, 1235, 559, 1220,
+          563, 1164, 529, 1042, 541, 967, 574, 971, 589, 849, 607, 815, 604,
+          812, 622, 830, 630, 845, 622, 971, 615, 967, 648, 971, 671, 979, 678,
+          1012, 663, 1027, 693, 1064, 685, 1079, 682, 1105, 682, 1127, 704,
+          1146, 741, 1160, 771, 1172, 771, 1175, 786, 1190, 789, 1201, 797,
+          1198, 823, 1246, 856
+        ]
+      ],
+      "area": 894992,
+      "bbox": [340, 51, 917, 976],
+      "iscrowd": 0,
+      "id": 40,
+      "image_id": 515,
+      "category_id": null
+    },
+    {
+      "segmentation": [[29, 823, 22, 365, 411, 368, 395, 833]],
+      "area": 182052,
+      "bbox": [22, 365, 389, 468],
+      "iscrowd": 0,
+      "id": 41,
+      "image_id": 516,
+      "category_id": null
+    },
+    {
+      "segmentation": [[283, 487, 275, 83, 707, 55, 723, 491]],
+      "area": 195328,
+      "bbox": [275, 55, 448, 436],
+      "iscrowd": 0,
+      "id": 42,
+      "image_id": 517,
+      "category_id": null
+    },
+    {
+      "segmentation": [[47, 371, 51, 91, 303, 155, 299, 323]],
+      "area": 71680,
+      "bbox": [47, 91, 256, 280],
+      "iscrowd": 0,
+      "id": 43,
+      "image_id": 518,
+      "category_id": null
+    },
+    {
+      "segmentation": [[383, 339, 381, 179, 455, 193, 453, 321]],
+      "area": 11840,
+      "bbox": [381, 179, 74, 160],
+      "iscrowd": 0,
+      "id": 44,
+      "image_id": 518,
+      "category_id": null
+    },
+    {
+      "segmentation": [[267, 385, 447, 389, 453, 153, 275, 147]],
+      "area": 45012,
+      "bbox": [267, 147, 186, 242],
+      "iscrowd": 0,
+      "id": 45,
+      "image_id": 519,
+      "category_id": null
+    },
+    {
+      "segmentation": [[65, 712, 89, 122, 605, 201, 588, 671]],
+      "area": 318600,
+      "bbox": [65, 122, 540, 590],
+      "iscrowd": 0,
+      "id": 46,
+      "image_id": 520,
+      "category_id": null
+    },
+    {
+      "segmentation": [[950, 53, 394, 37, 383, 757, 884, 774]],
+      "area": 417879,
+      "bbox": [383, 37, 567, 737],
+      "iscrowd": 0,
+      "id": 47,
+      "image_id": 521,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          587, 307, 591, 383, 795, 423, 791, 103, 579, 115, 587, 259, 599, 259,
+          599, 239, 627, 219, 647, 231, 655, 255, 647, 267, 635, 267, 603, 299
+        ]
+      ],
+      "area": 69120,
+      "bbox": [579, 103, 216, 320],
+      "iscrowd": 0,
+      "id": 48,
+      "image_id": 522,
+      "category_id": null
+    },
+    {
+      "segmentation": [[135, 463, 131, 131, 387, 135, 387, 463]],
+      "area": 84992,
+      "bbox": [131, 131, 256, 332],
+      "iscrowd": 0,
+      "id": 49,
+      "image_id": 523,
+      "category_id": null
+    },
+    {
+      "segmentation": [[503, 463, 499, 131, 743, 131, 747, 463]],
+      "area": 82336,
+      "bbox": [499, 131, 248, 332],
+      "iscrowd": 0,
+      "id": 50,
+      "image_id": 523,
+      "category_id": null
+    },
+    {
+      "segmentation": [[891, 491, 895, 83, 1195, 83, 1187, 487]],
+      "area": 124032,
+      "bbox": [891, 83, 304, 408],
+      "iscrowd": 0,
+      "id": 51,
+      "image_id": 523,
+      "category_id": null
+    },
+    {
+      "segmentation": [[475, 407, 499, 39, 195, 55, 195, 363]],
+      "area": 111872,
+      "bbox": [195, 39, 304, 368],
+      "iscrowd": 0,
+      "id": 52,
+      "image_id": 524,
+      "category_id": null
+    },
+    {
+      "segmentation": [[235, 306, 228, 57, 441, 64, 442, 282]],
+      "area": 53286,
+      "bbox": [228, 57, 214, 249],
+      "iscrowd": 0,
+      "id": 53,
+      "image_id": 525,
+      "category_id": null
+    },
+    {
+      "segmentation": [[220, 226, 213, 58, 319, 80, 325, 209]],
+      "area": 18816,
+      "bbox": [213, 58, 112, 168],
+      "iscrowd": 0,
+      "id": 54,
+      "image_id": 526,
+      "category_id": null
+    },
+    {
+      "segmentation": [[262, 364, 234, 250, 298, 238, 321, 334]],
+      "area": 10962,
+      "bbox": [234, 238, 87, 126],
+      "iscrowd": 0,
+      "id": 55,
+      "image_id": 526,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1, 247, 36, 400, 225, 331, 168, 104, 1, 88]],
+      "area": 69888,
+      "bbox": [1, 88, 224, 312],
+      "iscrowd": 0,
+      "id": 56,
+      "image_id": 526,
+      "category_id": null
+    },
+    {
+      "segmentation": [[367, 161, 370, 68, 460, 64, 454, 167]],
+      "area": 9579,
+      "bbox": [367, 64, 93, 103],
+      "iscrowd": 0,
+      "id": 57,
+      "image_id": 526,
+      "category_id": null
+    },
+    {
+      "segmentation": [[357, 319, 367, 196, 523, 199, 516, 338]],
+      "area": 23572,
+      "bbox": [357, 196, 166, 142],
+      "iscrowd": 0,
+      "id": 58,
+      "image_id": 526,
+      "category_id": null
+    },
+    {
+      "segmentation": [[639, 350, 537, 340, 544, 163, 639, 160]],
+      "area": 19380,
+      "bbox": [537, 160, 102, 190],
+      "iscrowd": 0,
+      "id": 59,
+      "image_id": 526,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          72, 167, 46, 17, 169, 26, 186, 89, 178, 92, 177, 94, 174, 97, 190,
+          106, 201, 149, 147, 167
+        ]
+      ],
+      "area": 23250,
+      "bbox": [46, 17, 155, 150],
+      "iscrowd": 0,
+      "id": 60,
+      "image_id": 527,
+      "category_id": null
+    },
+    {
+      "segmentation": [[173, 305, 175, 83, 331, 69, 327, 333]],
+      "area": 41712,
+      "bbox": [173, 69, 158, 264],
+      "iscrowd": 0,
+      "id": 61,
+      "image_id": 528,
+      "category_id": null
+    },
+    {
+      "segmentation": [[471, 379, 473, 55, 791, 21, 779, 443]],
+      "area": 135040,
+      "bbox": [471, 21, 320, 422],
+      "iscrowd": 0,
+      "id": 62,
+      "image_id": 528,
+      "category_id": null
+    },
+    {
+      "segmentation": [[194, 144, 256, 148, 258, 47, 196, 47]],
+      "area": 6464,
+      "bbox": [194, 47, 64, 101],
+      "iscrowd": 0,
+      "id": 63,
+      "image_id": 529,
+      "category_id": null
+    },
+    {
+      "segmentation": [[91, 141, 146, 144, 148, 48, 91, 50]],
+      "area": 5472,
+      "bbox": [91, 48, 57, 96],
+      "iscrowd": 0,
+      "id": 64,
+      "image_id": 529,
+      "category_id": null
+    },
+    {
+      "segmentation": [[2, 136, 48, 138, 49, 50, 1, 52]],
+      "area": 4224,
+      "bbox": [1, 50, 48, 88],
+      "iscrowd": 0,
+      "id": 65,
+      "image_id": 529,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [54, 198, 56, 95, 61, 89, 55, 82, 57, 22, 168, 23, 170, 198]
+      ],
+      "area": 20416,
+      "bbox": [54, 22, 116, 176],
+      "iscrowd": 0,
+      "id": 66,
+      "image_id": 530,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          566, 503, 593, 104, 325, 139, 308, 365, 332, 468, 370, 462, 336, 482,
+          332, 496
+        ]
+      ],
+      "area": 113715,
+      "bbox": [308, 104, 285, 399],
+      "iscrowd": 0,
+      "id": 67,
+      "image_id": 531,
+      "category_id": null
+    },
+    {
+      "segmentation": [[64, 6, 144, 53, 139, 106, 43, 71]],
+      "area": 10100,
+      "bbox": [43, 6, 101, 100],
+      "iscrowd": 0,
+      "id": 68,
+      "image_id": 532,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          120, 144, 93, 137, 92, 134, 96, 8, 246, 12, 213, 178, 138, 150, 141,
+          142, 147, 136, 150, 123, 143, 122, 143, 116, 135, 114, 132, 114, 129,
+          119, 126, 125, 126, 135
+        ]
+      ],
+      "area": 26180,
+      "bbox": [92, 8, 154, 170],
+      "iscrowd": 0,
+      "id": 69,
+      "image_id": 533,
+      "category_id": null
+    },
+    {
+      "segmentation": [[33, 155, 37, 22, 153, 38, 156, 144]],
+      "area": 16359,
+      "bbox": [33, 22, 123, 133],
+      "iscrowd": 0,
+      "id": 70,
+      "image_id": 534,
+      "category_id": null
+    },
+    {
+      "segmentation": [[199, 137, 198, 41, 264, 50, 266, 131]],
+      "area": 6528,
+      "bbox": [198, 41, 68, 96],
+      "iscrowd": 0,
+      "id": 71,
+      "image_id": 534,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [55, 2, 72, 367, 81, 367, 82, 380, 298, 359, 297, 344, 303, 346, 297, 2]
+      ],
+      "area": 93744,
+      "bbox": [55, 2, 248, 378],
+      "iscrowd": 0,
+      "id": 72,
+      "image_id": 535,
+      "category_id": null
+    },
+    {
+      "segmentation": [[35, 367, 37, 205, 285, 209, 283, 367]],
+      "area": 40500,
+      "bbox": [35, 205, 250, 162],
+      "iscrowd": 0,
+      "id": 73,
+      "image_id": 536,
+      "category_id": null
+    },
+    {
+      "segmentation": [[467, 367, 465, 213, 675, 215, 677, 359]],
+      "area": 32648,
+      "bbox": [465, 213, 212, 154],
+      "iscrowd": 0,
+      "id": 74,
+      "image_id": 536,
+      "category_id": null
+    },
+    {
+      "segmentation": [[382, 180, 348, 183, 348, 117, 381, 119]],
+      "area": 2244,
+      "bbox": [348, 117, 34, 66],
+      "iscrowd": 0,
+      "id": 75,
+      "image_id": 537,
+      "category_id": null
+    },
+    {
+      "segmentation": [[49, 191, 43, 39, 261, 39, 259, 169]],
+      "area": 33136,
+      "bbox": [43, 39, 218, 152],
+      "iscrowd": 0,
+      "id": 76,
+      "image_id": 538,
+      "category_id": null
+    },
+    {
+      "segmentation": [[587, 245, 587, 153, 715, 151, 715, 247]],
+      "area": 12288,
+      "bbox": [587, 151, 128, 96],
+      "iscrowd": 0,
+      "id": 77,
+      "image_id": 538,
+      "category_id": null
+    },
+    {
+      "segmentation": [[46, 388, 56, 54, 492, 81, 492, 388]],
+      "area": 148964,
+      "bbox": [46, 54, 446, 334],
+      "iscrowd": 0,
+      "id": 78,
+      "image_id": 539,
+      "category_id": null
+    },
+    {
+      "segmentation": [[82, 784, 86, 504, 449, 501, 449, 774]],
+      "area": 103861,
+      "bbox": [82, 501, 367, 283],
+      "iscrowd": 0,
+      "id": 79,
+      "image_id": 539,
+      "category_id": null
+    },
+    {
+      "segmentation": [[579, 531, 586, 194, 832, 211, 832, 531]],
+      "area": 85261,
+      "bbox": [579, 194, 253, 337],
+      "iscrowd": 0,
+      "id": 80,
+      "image_id": 539,
+      "category_id": null
+    },
+    {
+      "segmentation": [[902, 561, 892, 314, 1219, 264, 1242, 568]],
+      "area": 106400,
+      "bbox": [892, 264, 350, 304],
+      "iscrowd": 0,
+      "id": 81,
+      "image_id": 539,
+      "category_id": null
+    },
+    {
+      "segmentation": [[16, 187, 15, 86, 231, 86, 231, 182]],
+      "area": 21816,
+      "bbox": [15, 86, 216, 101],
+      "iscrowd": 0,
+      "id": 82,
+      "image_id": 540,
+      "category_id": null
+    },
+    {
+      "segmentation": [[276, 202, 276, 65, 496, 65, 496, 202]],
+      "area": 30140,
+      "bbox": [276, 65, 220, 137],
+      "iscrowd": 0,
+      "id": 83,
+      "image_id": 540,
+      "category_id": null
+    },
+    {
+      "segmentation": [[373, 143, 376, 77, 420, 77, 418, 148]],
+      "area": 3337,
+      "bbox": [373, 77, 47, 71],
+      "iscrowd": 0,
+      "id": 84,
+      "image_id": 541,
+      "category_id": null
+    },
+    {
+      "segmentation": [[445, 149, 448, 76, 504, 76, 499, 155]],
+      "area": 4661,
+      "bbox": [445, 76, 59, 79],
+      "iscrowd": 0,
+      "id": 85,
+      "image_id": 541,
+      "category_id": null
+    },
+    {
+      "segmentation": [[491, 717, 515, 97, 927, 1, 1135, 1, 1127, 709]],
+      "area": 461104,
+      "bbox": [491, 1, 644, 716],
+      "iscrowd": 0,
+      "id": 86,
+      "image_id": 542,
+      "category_id": null
+    },
+    {
+      "segmentation": [[251, 253, 231, 65, 391, 65, 403, 217]],
+      "area": 32336,
+      "bbox": [231, 65, 172, 188],
+      "iscrowd": 0,
+      "id": 87,
+      "image_id": 543,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [183, 107, 82, 171, 40, 98, 129, 60, 154, 83, 133, 105, 157, 87]
+      ],
+      "area": 15873,
+      "bbox": [40, 60, 143, 111],
+      "iscrowd": 0,
+      "id": 88,
+      "image_id": 544,
+      "category_id": null
+    },
+    {
+      "segmentation": [[28, 155, 4, 89, 75, 69, 91, 128]],
+      "area": 7482,
+      "bbox": [4, 69, 87, 86],
+      "iscrowd": 0,
+      "id": 89,
+      "image_id": 545,
+      "category_id": null
+    },
+    {
+      "segmentation": [[111, 117, 97, 62, 144, 46, 152, 96]],
+      "area": 3905,
+      "bbox": [97, 46, 55, 71],
+      "iscrowd": 0,
+      "id": 90,
+      "image_id": 545,
+      "category_id": null
+    },
+    {
+      "segmentation": [[172, 86, 169, 39, 198, 28, 201, 73]],
+      "area": 1856,
+      "bbox": [169, 28, 32, 58],
+      "iscrowd": 0,
+      "id": 91,
+      "image_id": 545,
+      "category_id": null
+    },
+    {
+      "segmentation": [[212, 66, 212, 16, 234, 9, 236, 57]],
+      "area": 1368,
+      "bbox": [212, 9, 24, 57],
+      "iscrowd": 0,
+      "id": 92,
+      "image_id": 545,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [63, 156, 60, 67, 157, 64, 144, 75, 147, 78, 164, 70, 166, 151]
+      ],
+      "area": 9752,
+      "bbox": [60, 64, 106, 92],
+      "iscrowd": 0,
+      "id": 93,
+      "image_id": 546,
+      "category_id": null
+    },
+    {
+      "segmentation": [[576, 379, 565, 213, 430, 223, 433, 342]],
+      "area": 24236,
+      "bbox": [430, 213, 146, 166],
+      "iscrowd": 0,
+      "id": 94,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[427, 219, 421, 73, 555, 10, 568, 207]],
+      "area": 30723,
+      "bbox": [421, 10, 147, 209],
+      "iscrowd": 0,
+      "id": 95,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[388, 313, 387, 186, 316, 201, 316, 297]],
+      "area": 9144,
+      "bbox": [316, 186, 72, 127],
+      "iscrowd": 0,
+      "id": 96,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[27, 294, 36, 193, 109, 205, 103, 288]],
+      "area": 8282,
+      "bbox": [27, 193, 82, 101],
+      "iscrowd": 0,
+      "id": 97,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[169, 208, 171, 184, 201, 189, 199, 211]],
+      "area": 864,
+      "bbox": [169, 184, 32, 27],
+      "iscrowd": 0,
+      "id": 98,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[253, 282, 253, 244, 283, 246, 283, 280]],
+      "area": 1140,
+      "bbox": [253, 244, 30, 38],
+      "iscrowd": 0,
+      "id": 99,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[254, 236, 255, 199, 281, 202, 282, 238]],
+      "area": 1092,
+      "bbox": [254, 199, 28, 39],
+      "iscrowd": 0,
+      "id": 100,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[210, 216, 212, 189, 243, 193, 242, 218]],
+      "area": 957,
+      "bbox": [210, 189, 33, 29],
+      "iscrowd": 0,
+      "id": 101,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[194, 253, 195, 218, 216, 220, 215, 254]],
+      "area": 792,
+      "bbox": [194, 218, 22, 36],
+      "iscrowd": 0,
+      "id": 102,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[221, 238, 221, 220, 241, 221, 240, 239]],
+      "area": 380,
+      "bbox": [221, 220, 20, 19],
+      "iscrowd": 0,
+      "id": 103,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[168, 259, 200, 259, 200, 281, 167, 283]],
+      "area": 792,
+      "bbox": [167, 259, 33, 24],
+      "iscrowd": 0,
+      "id": 104,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[169, 212, 192, 214, 191, 234, 169, 233]],
+      "area": 506,
+      "bbox": [169, 212, 23, 22],
+      "iscrowd": 0,
+      "id": 105,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[169, 237, 190, 237, 189, 256, 168, 257]],
+      "area": 440,
+      "bbox": [168, 237, 22, 20],
+      "iscrowd": 0,
+      "id": 106,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[220, 242, 241, 242, 241, 261, 220, 261]],
+      "area": 399,
+      "bbox": [220, 242, 21, 19],
+      "iscrowd": 0,
+      "id": 107,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[219, 263, 240, 263, 240, 282, 219, 282]],
+      "area": 399,
+      "bbox": [219, 263, 21, 19],
+      "iscrowd": 0,
+      "id": 108,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[202, 271, 202, 272, 216, 272, 216, 283, 202, 283]],
+      "area": 168,
+      "bbox": [202, 271, 14, 12],
+      "iscrowd": 0,
+      "id": 109,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[202, 255, 217, 255, 217, 268, 203, 268]],
+      "area": 195,
+      "bbox": [202, 255, 15, 13],
+      "iscrowd": 0,
+      "id": 110,
+      "image_id": 547,
+      "category_id": null
+    },
+    {
+      "segmentation": [[367, 232, 368, 137, 484, 138, 482, 245]],
+      "area": 12636,
+      "bbox": [367, 137, 117, 108],
+      "iscrowd": 0,
+      "id": 111,
+      "image_id": 548,
+      "category_id": null
+    },
+    {
+      "segmentation": [[218, 228, 218, 156, 250, 156, 250, 222]],
+      "area": 2304,
+      "bbox": [218, 156, 32, 72],
+      "iscrowd": 0,
+      "id": 112,
+      "image_id": 548,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [398, -1, 248, 65, 239, 257, 503, 353, 512, 350, 518, -1]
+      ],
+      "area": 98766,
+      "bbox": [239, -1, 279, 354],
+      "iscrowd": 0,
+      "id": 113,
+      "image_id": 549,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          62, 97, 61, 14, 184, 34, 186, 111, 178, 118, 173, 130, 164, 122, 164,
+          126, 171, 130, 169, 143, 75, 166, 72, 143, 85, 145, 86, 139, 86, 134,
+          80, 134, 76, 129, 74, 122, 74, 119, 70, 118, 68, 115, 67, 114, 67,
+          112, 67, 109, 67, 105, 67, 101, 64, 97, 63, 95, 62, 96
+        ]
+      ],
+      "area": 19000,
+      "bbox": [61, 14, 125, 152],
+      "iscrowd": 0,
+      "id": 114,
+      "image_id": 550,
+      "category_id": null
+    },
+    {
+      "segmentation": [[149, 389, 155, 80, 497, 98, 494, 389]],
+      "area": 107532,
+      "bbox": [149, 80, 348, 309],
+      "iscrowd": 0,
+      "id": 115,
+      "image_id": 551,
+      "category_id": null
+    },
+    {
+      "segmentation": [[33, 166, 13, 33, 106, 33, 119, 142]],
+      "area": 14098,
+      "bbox": [13, 33, 106, 133],
+      "iscrowd": 0,
+      "id": 116,
+      "image_id": 552,
+      "category_id": null
+    },
+    {
+      "segmentation": [[133, 146, 118, 1, 189, 9, 199, 121]],
+      "area": 11745,
+      "bbox": [118, 1, 81, 145],
+      "iscrowd": 0,
+      "id": 117,
+      "image_id": 552,
+      "category_id": null
+    },
+    {
+      "segmentation": [[211, 69, 207, 6, 235, 11, 239, 65]],
+      "area": 2016,
+      "bbox": [207, 6, 32, 63],
+      "iscrowd": 0,
+      "id": 118,
+      "image_id": 552,
+      "category_id": null
+    },
+    {
+      "segmentation": [[477, 365, 480, 137, 643, 142, 643, 368]],
+      "area": 38346,
+      "bbox": [477, 137, 166, 231],
+      "iscrowd": 0,
+      "id": 119,
+      "image_id": 553,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [310, 175, 358, 175, 360, 193, 339, 193, 339, 205, 312, 205]
+      ],
+      "area": 1500,
+      "bbox": [310, 175, 50, 30],
+      "iscrowd": 0,
+      "id": 120,
+      "image_id": 553,
+      "category_id": null
+    },
+    {
+      "segmentation": [[283, 181, 306, 181, 310, 211, 288, 212]],
+      "area": 837,
+      "bbox": [283, 181, 27, 31],
+      "iscrowd": 0,
+      "id": 121,
+      "image_id": 553,
+      "category_id": null
+    },
+    {
+      "segmentation": [[231, 170, 267, 169, 271, 214, 238, 217]],
+      "area": 1920,
+      "bbox": [231, 169, 40, 48],
+      "iscrowd": 0,
+      "id": 122,
+      "image_id": 553,
+      "category_id": null
+    },
+    {
+      "segmentation": [[183, 221, 171, 185, 207, 181, 219, 217]],
+      "area": 1920,
+      "bbox": [171, 181, 48, 40],
+      "iscrowd": 0,
+      "id": 123,
+      "image_id": 553,
+      "category_id": null
+    },
+    {
+      "segmentation": [[76, 152, 106, 151, 109, 181, 79, 187]],
+      "area": 1188,
+      "bbox": [76, 151, 33, 36],
+      "iscrowd": 0,
+      "id": 124,
+      "image_id": 553,
+      "category_id": null
+    },
+    {
+      "segmentation": [[73, 94, 114, 94, 115, 122, 76, 125]],
+      "area": 1302,
+      "bbox": [73, 94, 42, 31],
+      "iscrowd": 0,
+      "id": 125,
+      "image_id": 553,
+      "category_id": null
+    },
+    {
+      "segmentation": [[460, 79, 508, 80, 504, 139, 457, 137]],
+      "area": 3060,
+      "bbox": [457, 79, 51, 60],
+      "iscrowd": 0,
+      "id": 126,
+      "image_id": 553,
+      "category_id": null
+    },
+    {
+      "segmentation": [[4, 278, 6, 61, 246, 85, 247, 233]],
+      "area": 52731,
+      "bbox": [4, 61, 243, 217],
+      "iscrowd": 0,
+      "id": 127,
+      "image_id": 554,
+      "category_id": null
+    },
+    {
+      "segmentation": [[361, 243, 363, 77, 504, 59, 501, 270]],
+      "area": 30173,
+      "bbox": [361, 59, 143, 211],
+      "iscrowd": 0,
+      "id": 128,
+      "image_id": 554,
+      "category_id": null
+    },
+    {
+      "segmentation": [[49, 175, 48, 21, 193, 21, 195, 177]],
+      "area": 22932,
+      "bbox": [48, 21, 147, 156],
+      "iscrowd": 0,
+      "id": 129,
+      "image_id": 555,
+      "category_id": null
+    },
+    {
+      "segmentation": [[118, 678, 121, 278, 428, 308, 428, 652]],
+      "area": 124000,
+      "bbox": [118, 278, 310, 400],
+      "iscrowd": 0,
+      "id": 130,
+      "image_id": 556,
+      "category_id": null
+    },
+    {
+      "segmentation": [[550, 553, 547, 404, 722, 404, 722, 546]],
+      "area": 26075,
+      "bbox": [547, 404, 175, 149],
+      "iscrowd": 0,
+      "id": 131,
+      "image_id": 556,
+      "category_id": null
+    },
+    {
+      "segmentation": [[927, 642, 930, 324, 1167, 293, 1164, 681]],
+      "area": 93120,
+      "bbox": [927, 293, 240, 388],
+      "iscrowd": 0,
+      "id": 132,
+      "image_id": 556,
+      "category_id": null
+    },
+    {
+      "segmentation": [[42, 208, 44, 94, 153, 109, 151, 205]],
+      "area": 12654,
+      "bbox": [42, 94, 111, 114],
+      "iscrowd": 0,
+      "id": 133,
+      "image_id": 557,
+      "category_id": null
+    },
+    {
+      "segmentation": [[406, 136, 403, 196, 424, 196, 428, 142]],
+      "area": 1500,
+      "bbox": [403, 136, 25, 60],
+      "iscrowd": 0,
+      "id": 134,
+      "image_id": 557,
+      "category_id": null
+    },
+    {
+      "segmentation": [[447, 195, 450, 144, 466, 147, 463, 195]],
+      "area": 969,
+      "bbox": [447, 144, 19, 51],
+      "iscrowd": 0,
+      "id": 135,
+      "image_id": 557,
+      "category_id": null
+    },
+    {
+      "segmentation": [[65, 159, 48, 8, 209, 7, 219, 126]],
+      "area": 25992,
+      "bbox": [48, 7, 171, 152],
+      "iscrowd": 0,
+      "id": 136,
+      "image_id": 558,
+      "category_id": null
+    },
+    {
+      "segmentation": [[447, 316, 450, 175, 592, 157, 592, 327]],
+      "area": 24650,
+      "bbox": [447, 157, 145, 170],
+      "iscrowd": 0,
+      "id": 137,
+      "image_id": 559,
+      "category_id": null
+    },
+    {
+      "segmentation": [[195, 294, 196, 213, 241, 207, 241, 300]],
+      "area": 4278,
+      "bbox": [195, 207, 46, 93],
+      "iscrowd": 0,
+      "id": 138,
+      "image_id": 559,
+      "category_id": null
+    },
+    {
+      "segmentation": [[237, 469, 229, 137, 508, 133, 504, 469]],
+      "area": 93744,
+      "bbox": [229, 133, 279, 336],
+      "iscrowd": 0,
+      "id": 139,
+      "image_id": 560,
+      "category_id": null
+    },
+    {
+      "segmentation": [[269, 1, 274, 208, 405, 205, 411, 1]],
+      "area": 29394,
+      "bbox": [269, 1, 142, 207],
+      "iscrowd": 0,
+      "id": 140,
+      "image_id": 561,
+      "category_id": null
+    },
+    {
+      "segmentation": [[743, 513, 743, 294, 1058, 300, 1061, 509]],
+      "area": 69642,
+      "bbox": [743, 294, 318, 219],
+      "iscrowd": 0,
+      "id": 141,
+      "image_id": 562,
+      "category_id": null
+    },
+    {
+      "segmentation": [[829, 308, 823, 158, 1003, 132, 1020, 302]],
+      "area": 34672,
+      "bbox": [823, 132, 197, 176],
+      "iscrowd": 0,
+      "id": 142,
+      "image_id": 563,
+      "category_id": null
+    },
+    {
+      "segmentation": [[408, 367, 410, 217, 473, 220, 473, 374]],
+      "area": 10205,
+      "bbox": [408, 217, 65, 157],
+      "iscrowd": 0,
+      "id": 143,
+      "image_id": 563,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          54, 44, 55, 8, 215, 9, 212, 17, 211, 26, 210, 26, 209, 30, 216, 37,
+          221, 48, 199, 65, 197, 82, 197, 90, 190, 119, 187, 122, 182, 145, 69,
+          145, 68, 128, 62, 106, 62, 96, 60, 87, 54, 85, 54, 86, 58, 79, 60, 76,
+          61, 65, 61, 62, 58, 46
+        ]
+      ],
+      "area": 22879,
+      "bbox": [54, 8, 167, 137],
+      "iscrowd": 0,
+      "id": 144,
+      "image_id": 564,
+      "category_id": null
+    },
+    {
+      "segmentation": [[24, 247, 20, 25, 88, 42, 93, 209]],
+      "area": 16206,
+      "bbox": [20, 25, 73, 222],
+      "iscrowd": 0,
+      "id": 145,
+      "image_id": 565,
+      "category_id": null
+    },
+    {
+      "segmentation": [[156, 163, 154, 58, 172, 63, 173, 154]],
+      "area": 1995,
+      "bbox": [154, 58, 19, 105],
+      "iscrowd": 0,
+      "id": 146,
+      "image_id": 565,
+      "category_id": null
+    },
+    {
+      "segmentation": [[790, 370, 790, 154, 959, 67, 956, 402]],
+      "area": 56615,
+      "bbox": [790, 67, 169, 335],
+      "iscrowd": 0,
+      "id": 147,
+      "image_id": 566,
+      "category_id": null
+    },
+    {
+      "segmentation": [[77, 143, 78, 13, 248, 26, 248, 134]],
+      "area": 22230,
+      "bbox": [77, 13, 171, 130],
+      "iscrowd": 0,
+      "id": 148,
+      "image_id": 567,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          510, 547, 509, 324, 434, 334, 426, 353, 399, 355, 392, 348, 387, 348,
+          388, 512, 392, 521, 395, 524, 404, 517, 405, 528, 410, 536, 405, 543,
+          407, 545
+        ]
+      ],
+      "area": 27429,
+      "bbox": [387, 324, 123, 223],
+      "iscrowd": 0,
+      "id": 149,
+      "image_id": 568,
+      "category_id": null
+    },
+    {
+      "segmentation": [[693, 415, 697, 324, 762, 312, 767, 310, 769, 411]],
+      "area": 7980,
+      "bbox": [693, 310, 76, 105],
+      "iscrowd": 0,
+      "id": 150,
+      "image_id": 568,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          46, 175, 46, 25, 140, 53, 144, 183, 111, 186, 102, 175, 96, 175, 86,
+          170, 78, 173
+        ]
+      ],
+      "area": 15778,
+      "bbox": [46, 25, 98, 161],
+      "iscrowd": 0,
+      "id": 151,
+      "image_id": 569,
+      "category_id": null
+    },
+    {
+      "segmentation": [[10, 15, 134, 15, 132, 163, 14, 165]],
+      "area": 18600,
+      "bbox": [10, 15, 124, 150],
+      "iscrowd": 0,
+      "id": 152,
+      "image_id": 570,
+      "category_id": null
+    },
+    {
+      "segmentation": [[152, 161, 152, 15, 268, 13, 270, 160]],
+      "area": 17464,
+      "bbox": [152, 13, 118, 148],
+      "iscrowd": 0,
+      "id": 153,
+      "image_id": 570,
+      "category_id": null
+    },
+    {
+      "segmentation": [[126, 711, 92, 42, 884, 96, 884, 668]],
+      "area": 529848,
+      "bbox": [92, 42, 792, 669],
+      "iscrowd": 0,
+      "id": 154,
+      "image_id": 571,
+      "category_id": null
+    },
+    {
+      "segmentation": [[111, 443, 68, 104, 275, 93, 289, 319]],
+      "area": 77350,
+      "bbox": [68, 93, 221, 350],
+      "iscrowd": 0,
+      "id": 155,
+      "image_id": 572,
+      "category_id": null
+    },
+    {
+      "segmentation": [[441, 373, 464, 344, 460, 253, 439, 279]],
+      "area": 3000,
+      "bbox": [439, 253, 25, 120],
+      "iscrowd": 0,
+      "id": 156,
+      "image_id": 572,
+      "category_id": null
+    },
+    {
+      "segmentation": [[307, 207, 312, 0, 214, 9, 217, 183]],
+      "area": 20286,
+      "bbox": [214, 0, 98, 207],
+      "iscrowd": 0,
+      "id": 157,
+      "image_id": 573,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          187, 176, 188, 13, 127, 18, 132, 158, 143, 160, 141, 136, 148, 136,
+          148, 149, 161, 155
+        ]
+      ],
+      "area": 9943,
+      "bbox": [127, 13, 61, 163],
+      "iscrowd": 0,
+      "id": 158,
+      "image_id": 573,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          539, 1, 497, 238, 421, 238, 388, 229, 367, 215, 357, 215, 354, 220,
+          350, 218, 348, 220, 363, 0
+        ]
+      ],
+      "area": 45458,
+      "bbox": [348, 0, 191, 238],
+      "iscrowd": 0,
+      "id": 159,
+      "image_id": 573,
+      "category_id": null
+    },
+    {
+      "segmentation": [[12, 62, 69, 53, 80, 133, 28, 146]],
+      "area": 6324,
+      "bbox": [12, 53, 68, 93],
+      "iscrowd": 0,
+      "id": 160,
+      "image_id": 574,
+      "category_id": null
+    },
+    {
+      "segmentation": [[90, 132, 89, 80, 131, 81, 131, 134]],
+      "area": 2268,
+      "bbox": [89, 80, 42, 54],
+      "iscrowd": 0,
+      "id": 161,
+      "image_id": 574,
+      "category_id": null
+    },
+    {
+      "segmentation": [[150, 136, 154, 43, 197, 45, 190, 153]],
+      "area": 5170,
+      "bbox": [150, 43, 47, 110],
+      "iscrowd": 0,
+      "id": 162,
+      "image_id": 574,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [283, 42, 230, 40, 214, 158, 264, 177, 272, 176, 283, 116]
+      ],
+      "area": 9453,
+      "bbox": [214, 40, 69, 137],
+      "iscrowd": 0,
+      "id": 163,
+      "image_id": 574,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          117, 140, 112, 43, 424, 37, 425, 130, 416, 145, 416, 170, 422, 186,
+          423, 198, 388, 211, 387, 234, 352, 233, 343, 225, 303, 211, 303, 202,
+          309, 188, 310, 173, 310, 159, 294, 141, 281, 140, 271, 144, 258, 150,
+          256, 161, 254, 182, 261, 204, 266, 212, 228, 238, 220, 244, 208, 243,
+          204, 242, 197, 223, 151, 212, 149, 205, 152, 195, 158, 171, 160, 165,
+          161, 162, 162, 163, 151, 142, 139, 136, 120, 139, 116, 140, 122, 138
+        ]
+      ],
+      "area": 64791,
+      "bbox": [112, 37, 313, 207],
+      "iscrowd": 0,
+      "id": 164,
+      "image_id": 575,
+      "category_id": null
+    },
+    {
+      "segmentation": [[630, 314, 628, 170, 808, 170, 815, 315]],
+      "area": 27115,
+      "bbox": [628, 170, 187, 145],
+      "iscrowd": 0,
+      "id": 165,
+      "image_id": 576,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          303, 303, 307, 172, 481, 172, 481, 247, 475, 261, 461, 277, 459, 294,
+          443, 307, 399, 312, 374, 314, 321, 308, 303, 305
+        ]
+      ],
+      "area": 25276,
+      "bbox": [303, 172, 178, 142],
+      "iscrowd": 0,
+      "id": 166,
+      "image_id": 576,
+      "category_id": null
+    },
+    {
+      "segmentation": [[469, 502, 426, 330, 507, 306, 548, 462]],
+      "area": 23912,
+      "bbox": [426, 306, 122, 196],
+      "iscrowd": 0,
+      "id": 167,
+      "image_id": 578,
+      "category_id": null
+    },
+    {
+      "segmentation": [[311, 388, 308, 211, 455, 199, 461, 406]],
+      "area": 31671,
+      "bbox": [308, 199, 153, 207],
+      "iscrowd": 0,
+      "id": 168,
+      "image_id": 579,
+      "category_id": null
+    },
+    {
+      "segmentation": [[164, 382, 170, 97, 410, 79, 401, 403]],
+      "area": 79704,
+      "bbox": [164, 79, 246, 324],
+      "iscrowd": 0,
+      "id": 169,
+      "image_id": 580,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          422, 409, 413, 106, 623, 115, 623, 352, 620, 358, 584, 364, 581, 352,
+          587, 337, 584, 283, 584, 277, 575, 283, 572, 235, 563, 235, 566, 280,
+          542, 280, 542, 295, 539, 343, 557, 343, 557, 358, 542, 361, 533, 364,
+          524, 370, 521, 412
+        ]
+      ],
+      "area": 64260,
+      "bbox": [413, 106, 210, 306],
+      "iscrowd": 0,
+      "id": 170,
+      "image_id": 581,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          319, 146, 210, 148, 205, 26, 361, 28, 363, 82, 349, 82, 336, 73, 325,
+          79, 319, 86
+        ]
+      ],
+      "area": 19276,
+      "bbox": [205, 26, 158, 122],
+      "iscrowd": 0,
+      "id": 171,
+      "image_id": 582,
+      "category_id": null
+    },
+    {
+      "segmentation": [[115, 154, 115, 56, 180, 65, 183, 137]],
+      "area": 6664,
+      "bbox": [115, 56, 68, 98],
+      "iscrowd": 0,
+      "id": 172,
+      "image_id": 583,
+      "category_id": null
+    },
+    {
+      "segmentation": [[193, 67, 193, 4, 229, 22, 232, 74]],
+      "area": 2730,
+      "bbox": [193, 4, 39, 70],
+      "iscrowd": 0,
+      "id": 173,
+      "image_id": 583,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1, 153, 94, 139, 96, 19, 12, 0, 1, 0]],
+      "area": 14535,
+      "bbox": [1, 0, 95, 153],
+      "iscrowd": 0,
+      "id": 174,
+      "image_id": 583,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          103, 133, 229, 135, 226, 21, 220, 22, 213, 15, 64, 12, 64, 132, 91,
+          132, 102, 114, 108, 115
+        ]
+      ],
+      "area": 20295,
+      "bbox": [64, 12, 165, 123],
+      "iscrowd": 0,
+      "id": 175,
+      "image_id": 584,
+      "category_id": null
+    },
+    {
+      "segmentation": [[120, 210, 120, 66, 222, 58, 225, 210]],
+      "area": 15960,
+      "bbox": [120, 58, 105, 152],
+      "iscrowd": 0,
+      "id": 176,
+      "image_id": 585,
+      "category_id": null
+    },
+    {
+      "segmentation": [[367, 286, 369, 93, 624, 76, 627, 78, 624, 306]],
+      "area": 59800,
+      "bbox": [367, 76, 260, 230],
+      "iscrowd": 0,
+      "id": 177,
+      "image_id": 585,
+      "category_id": null
+    },
+    {
+      "segmentation": [[357, 187, 378, 82, 445, 72, 420, 204]],
+      "area": 11616,
+      "bbox": [357, 72, 88, 132],
+      "iscrowd": 0,
+      "id": 178,
+      "image_id": 586,
+      "category_id": null
+    },
+    {
+      "segmentation": [[124, 172, 132, 112, 175, 111, 168, 175]],
+      "area": 3264,
+      "bbox": [124, 111, 51, 64],
+      "iscrowd": 0,
+      "id": 179,
+      "image_id": 586,
+      "category_id": null
+    },
+    {
+      "segmentation": [[25, 151, 30, 120, 53, 120, 49, 151]],
+      "area": 868,
+      "bbox": [25, 120, 28, 31],
+      "iscrowd": 0,
+      "id": 180,
+      "image_id": 586,
+      "category_id": null
+    },
+    {
+      "segmentation": [[93, 140, 136, 140, 139, 78, 81, 75, 80, 130, 90, 135]],
+      "area": 3835,
+      "bbox": [80, 75, 59, 65],
+      "iscrowd": 0,
+      "id": 181,
+      "image_id": 587,
+      "category_id": null
+    },
+    {
+      "segmentation": [[288, 137, 288, 78, 315, 70, 316, 138]],
+      "area": 1904,
+      "bbox": [288, 70, 28, 68],
+      "iscrowd": 0,
+      "id": 182,
+      "image_id": 587,
+      "category_id": null
+    },
+    {
+      "segmentation": [[157, 171, 309, 177, 300, 428, 150, 422]],
+      "area": 40863,
+      "bbox": [150, 171, 159, 257],
+      "iscrowd": 0,
+      "id": 183,
+      "image_id": 588,
+      "category_id": null
+    },
+    {
+      "segmentation": [[569, 338, 605, 164, 701, 194, 644, 437]],
+      "area": 36036,
+      "bbox": [569, 164, 132, 273],
+      "iscrowd": 0,
+      "id": 184,
+      "image_id": 589,
+      "category_id": null
+    },
+    {
+      "segmentation": [[275, 163, 435, 163, 437, 323, 277, 323]],
+      "area": 25920,
+      "bbox": [275, 163, 162, 160],
+      "iscrowd": 0,
+      "id": 185,
+      "image_id": 590,
+      "category_id": null
+    },
+    {
+      "segmentation": [[101, 159, 9, 159, 11, 39, 109, 39, 111, 117, 107, 151]],
+      "area": 12240,
+      "bbox": [9, 39, 102, 120],
+      "iscrowd": 0,
+      "id": 186,
+      "image_id": 591,
+      "category_id": null
+    },
+    {
+      "segmentation": [[193, 31, 73, 83, 181, 301, 465, 207, 425, 33]],
+      "area": 105840,
+      "bbox": [73, 31, 392, 270],
+      "iscrowd": 0,
+      "id": 187,
+      "image_id": 592,
+      "category_id": null
+    },
+    {
+      "segmentation": [[143, 154, 142, 13, 246, 15, 249, 154]],
+      "area": 15087,
+      "bbox": [142, 13, 107, 141],
+      "iscrowd": 0,
+      "id": 188,
+      "image_id": 593,
+      "category_id": null
+    },
+    {
+      "segmentation": [[41, 134, 43, 54, 101, 53, 101, 135]],
+      "area": 4920,
+      "bbox": [41, 53, 60, 82],
+      "iscrowd": 0,
+      "id": 189,
+      "image_id": 593,
+      "category_id": null
+    },
+    {
+      "segmentation": [[470, 443, 470, 218, 605, 218, 605, 449]],
+      "area": 31185,
+      "bbox": [470, 218, 135, 231],
+      "iscrowd": 0,
+      "id": 190,
+      "image_id": 594,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [893, 368, 884, 329, 866, 302, 845, 275, 851, 188, 980, 191, 977, 368]
+      ],
+      "area": 24300,
+      "bbox": [845, 188, 135, 180],
+      "iscrowd": 0,
+      "id": 191,
+      "image_id": 594,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          653, 254, 653, 59, 494, 68, 494, 221, 527, 212, 536, 212, 545, 197,
+          569, 194, 587, 200, 599, 227, 602, 254
+        ]
+      ],
+      "area": 31005,
+      "bbox": [494, 59, 159, 195],
+      "iscrowd": 0,
+      "id": 192,
+      "image_id": 595,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          818, 245, 806, 206, 794, 194, 764, 179, 761, 59, 884, 62, 884, 182,
+          857, 212, 851, 236, 848, 248
+        ]
+      ],
+      "area": 23247,
+      "bbox": [761, 59, 123, 189],
+      "iscrowd": 0,
+      "id": 193,
+      "image_id": 595,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [1112, 44, 986, 53, 986, 188, 1013, 233, 1019, 263, 1112, 263]
+      ],
+      "area": 27594,
+      "bbox": [986, 44, 126, 219],
+      "iscrowd": 0,
+      "id": 194,
+      "image_id": 595,
+      "category_id": null
+    },
+    {
+      "segmentation": [[542, 274, 546, 99, 649, 96, 652, 280]],
+      "area": 20240,
+      "bbox": [542, 96, 110, 184],
+      "iscrowd": 0,
+      "id": 195,
+      "image_id": 596,
+      "category_id": null
+    },
+    {
+      "segmentation": [[1054, 73, 944, 77, 940, 287, 1054, 293]],
+      "area": 25080,
+      "bbox": [940, 73, 114, 220],
+      "iscrowd": 0,
+      "id": 196,
+      "image_id": 596,
+      "category_id": null
+    },
+    {
+      "segmentation": [[371, 272, 368, 122, 467, 110, 476, 281]],
+      "area": 18468,
+      "bbox": [368, 110, 108, 171],
+      "iscrowd": 0,
+      "id": 197,
+      "image_id": 597,
+      "category_id": null
+    },
+    {
+      "segmentation": [
+        [
+          527, 341, 494, 377, 443, 386, 404, 395, 365, 404, 341, 404, 239, 413,
+          230, 74, 689, 44, 695, 98, 659, 89, 602, 83, 542, 140, 524, 173, 530,
+          230
+        ]
+      ],
+      "area": 171585,
+      "bbox": [230, 44, 465, 369],
+      "iscrowd": 0,
+      "id": 198,
+      "image_id": 598,
+      "category_id": null
+    },
+    {
+      "segmentation": [[881, 386, 887, 35, 1166, 23, 1154, 392]],
+      "area": 105165,
+      "bbox": [881, 23, 285, 369],
+      "iscrowd": 0,
+      "id": 199,
+      "image_id": 599,
+      "category_id": null
+    },
+    {
+      "segmentation": [[74, 386, 68, 56, 305, 53, 308, 383]],
+      "area": 79920,
+      "bbox": [68, 53, 240, 333],
+      "iscrowd": 0,
+      "id": 200,
+      "image_id": 599,
+      "category_id": null
+    },
+    {
+      "segmentation": [[113, 399, 98, 82, 270, 88, 279, 390]],
+      "area": 57377,
+      "bbox": [98, 82, 181, 317],
+      "iscrowd": 0,
+      "id": 201,
+      "image_id": 600,
+      "category_id": null
+    }
+  ],
+  "licenses": [{ "id": 0, "name": "Unknown License", "url": "" }],
+  "categories": [{ "supercategory": "names", "id": null, "name": "" }]
+}
